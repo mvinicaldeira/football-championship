@@ -66,8 +66,8 @@ function renderHeader() {
         <div class="header-logo">
           <span class="logo-icon" aria-hidden="true">⚽</span>
           <div class="logo-text">
-            <span class="logo-main">Championship</span>
-            <span class="logo-sub">Manager</span>
+            <span class="logo-main">Torneio de Seleções</span>
+            <span class="logo-sub">Grupo Vip Master</span>
           </div>
         </div>
         <div class="header-right">
