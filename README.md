@@ -1,4 +1,4 @@
-# ⚽ Championship Manager
+# ⚽ Championship Manager - Pelada Vip Master
 
 Gerenciador de campeonato de futebol com 6 seleções mundiais — fase de grupos, semifinais e final.
 
